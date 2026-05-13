@@ -23,7 +23,7 @@ A Java Swing desktop application for managing a Shabu restaurant — handling me
 ### Employee Management
 | Employee List | Add Employee |
 |---------------|--------------|
-| ![Employee List](screenshots/Screenshot_2023-12-13_173747.png) | ![Add Employee](screenshots/Screenshot_2023-12-13_173718.png) |
+| ![Employee List](screenshots/Screenshot_2023-12-13_172812.png) | ![Add Employee](screenshots/Screenshot_2023-12-13_173718.png) |
 
 | Remove Employee | Change Employee Data | Employee Detail |
 |-----------------|----------------------|-----------------|
