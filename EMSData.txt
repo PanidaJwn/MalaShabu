@@ -1,0 +1,2 @@
+Full Time,3233,Sahapoom,Wongsawat,Male,Suphan,200.0,35000.0
+Full Time,6503275,Sahapoom,Wongsawat,Male,Suphan,200.0,35000.0
